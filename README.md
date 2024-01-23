@@ -8,7 +8,7 @@ The script prompts you to input the exercise you've performed, fetches nutrition
 ## How to Run
 To use the Exercise Tracker script, follow these steps:
 
-## Open the Python script: main.py
+* Open the Python script: main.py
    ```bash
    python main.py
    ```
